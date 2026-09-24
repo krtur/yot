@@ -1,0 +1,4 @@
+# Um nicho por linha. Linhas com # são ignoradas.
+finanças pessoais
+investimentos para iniciantes
+educação financeira

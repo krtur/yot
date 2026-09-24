@@ -1,0 +1,6 @@
+requests>=2.31
+openpyxl>=3.1
+python-dotenv>=1.0
+tzdata>=2024.1        # fusos horários no Windows
+streamlit>=1.50
+pytest>=8             # só para rodar os testes
